@@ -265,6 +265,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lights
       objectReference: {fileID: 0}
+    - target: {fileID: 319857085553257924, guid: ba7ce8b48ce9eb54d85860e2f4e99fff, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 319857085553257925, guid: ba7ce8b48ce9eb54d85860e2f4e99fff, type: 3}
       propertyPath: m_RootOrder
       value: 0
