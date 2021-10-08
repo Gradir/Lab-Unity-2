@@ -15,7 +15,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4284367394050880343
 Transform:
   m_ObjectHideFlags: 0
@@ -366,7 +366,6 @@ LineRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
   m_MotionVectors: 0
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -398,15 +397,15 @@ LineRenderer:
   m_SortingOrder: 0
   m_Positions:
   - {x: 0, y: 3.3617508, z: 0}
-  - {x: 1.3778287, y: 2.8460627, z: -0.1535993}
-  - {x: 2.7556574, y: 2.3925738, z: -0.28867227}
-  - {x: 4.1334863, y: 2.0559824, z: -0.3889271}
-  - {x: 5.511315, y: 1.8768858, z: -0.44227156}
-  - {x: 6.889144, y: 1.8768858, z: -0.44227153}
-  - {x: 8.266973, y: 2.0559826, z: -0.38892707}
-  - {x: 9.644801, y: 2.3925743, z: -0.28867218}
-  - {x: 11.02263, y: 2.846063, z: -0.15359923}
-  - {x: 12.400458, y: 3.361751, z: 0.00000003926107}
+  - {x: 1.3778287, y: 2.859509, z: -0.19336396}
+  - {x: 2.7556574, y: 2.417845, z: -0.36340538}
+  - {x: 4.1334863, y: 2.0900302, z: -0.48961475}
+  - {x: 5.511315, y: 1.9156033, z: -0.5567694}
+  - {x: 6.889144, y: 1.9156034, z: -0.5567693}
+  - {x: 8.266973, y: 2.0900302, z: -0.48961473}
+  - {x: 9.644801, y: 2.4178452, z: -0.3634053}
+  - {x: 11.02263, y: 2.8595092, z: -0.19336389}
+  - {x: 12.400458, y: 3.361751, z: 0.0000000494252}
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 1
