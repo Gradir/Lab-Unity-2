@@ -19,6 +19,7 @@ public class MoveToClickPoint : MonoBehaviour
 			if (Physics.Raycast(Camera.main.ScreenPointToRay(Input.mousePosition), out hit, 100))
 			{
 				agent.destination = hit.point;
+				Debug.DrawLine(Camera.main.transform.position, hit.point, Color.red, 10);
 			}
 		}
 	}
